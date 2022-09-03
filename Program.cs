@@ -1,4 +1,9 @@
-﻿Console.WriteLine("Digite seu nome: ");
+﻿Console.Write("Digite seu nome: ");
 string nomeUsuario = Console.ReadLine()!;
+Console.WriteLine();
 
-Console.WriteLine($"Olá {nomeUsuario}, meu nome é Rafael! ");
+Console.Write($"Olá {nomeUsuario}, meu nome é Rafael! ");
+
+
+Console.WriteLine();
+Console.WriteLine();
